@@ -3,8 +3,8 @@
 A modern, full-featured dashboard starter kit built with Next.js 15, NextAuth.js v5, Prisma, and shadcn/ui components. This starter kit provides a complete authentication system, role-based access control, and a beautiful dashboard interface ready for customization.
 
 ---
-🚀 **Built by [Turbo Launch]([https://turbolaunch.dev](https://turbolaunch-rho.vercel.app/#book))** – We help SaaS founders and startups go from idea → MVP in just 15 days.  
-If you have a SaaS startup idea our team can build and launch it fast. **
+🚀 **Built by [Turbo Launch](https://turbolaunch-rho.vercel.app/#book)** – We help SaaS founders and startups go from idea → MVP in just 15 days.  
+If you have a SaaS startup idea our team can build and launch it fast.  
 ---
 
 
