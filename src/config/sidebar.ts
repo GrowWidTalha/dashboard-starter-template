@@ -87,9 +87,9 @@ export const sidebarConfig: SidebarSection[] = [
 ]
 
 export const sidebarFooterItems: SidebarItem[] = [
-  {
-    title: "Profile",
-    url: "/dashboard/profile",
-    icon: User,
-  },
+  // {
+  //   title: "Profile",
+  //   url: "/dashboard/profile",
+  //   icon: User,
+  // },
 ]
